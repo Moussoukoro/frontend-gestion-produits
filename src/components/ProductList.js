@@ -30,7 +30,7 @@ function ProductList({ products, onDelete, onEdit }) {
                   )}
                 </td>
                 <td>{product.nom}</td>
-                <td>{product.prix} €</td>
+                <td>{product.prix}</td>
                 <td>{product.quantite}</td>
                 <td>
                   {product.categories && product.categories

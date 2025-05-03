@@ -123,7 +123,7 @@ function ProductForm({ onSubmit, initialData, onCancel, categories }) {
         </div>
         
         <div className="form-group">
-          <label>Prix (€):</label>
+          <label>Prix </label>
           <input
             type="number"
             name="prix"
