@@ -29,6 +29,11 @@ Ce projet constitue le front-end d'une application web de gestion de produits, d
 
 ---
 
+## Installation et Démarrage
+1. Cloner le dépôt
+2. Installer les dépendances: `npm install`
+3. Démarrer l'application: `npm start`
+
 
 ### cloner le projet ici
 
